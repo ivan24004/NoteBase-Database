@@ -1,6 +1,6 @@
 {
-  posts: [{
-    id: 1,
-    postBody: "Hello World"
+  "posts": [{
+    "id": 1,
+    "postBody": "Hello World"
   }]
 }
